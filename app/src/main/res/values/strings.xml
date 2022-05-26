@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AmazonTask</string>
+    <string name="todo">TODO</string>
+    <string name="addtocart">Add To Cart</string>
+    <string name="price">50$</string>
+    <string name="product_name">Product Name</string>
+    <string name="man_s_running_shoes">Man\'s running shoes</string>
+    <string name="size">SIZE</string>
+    <string name="_43">43</string>
+</resources>
